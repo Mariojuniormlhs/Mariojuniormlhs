@@ -1,5 +1,5 @@
                   ## Olá Padauã, Eu sou Mario e seja bem vindo ao meu perfil!
-![Img](https://img.freepik.com/fotos-gratis/renderizacao-3d-de-homem-jogando-online_23-2150898695.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1726790400&semt=ais_hybrid)
+<center>![Img](https://img.freepik.com/fotos-gratis/renderizacao-3d-de-homem-jogando-online_23-2150898695.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1726790400&semt=ais_hybrid)</center>
 
 
 - 🔭 I’m currently working on ...
