@@ -1,13 +1,20 @@
-                  ## Olá Padauã, Eu sou Mario e seja bem vindo ao meu perfil!
-<center>![Img](https://img.freepik.com/fotos-gratis/renderizacao-3d-de-homem-jogando-online_23-2150898695.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1726790400&semt=ais_hybrid)</center>
+## Olá Padauã, Eu sou Mario e seja bem vindo ao meu perfil!
+#### Este é um perfil profissional, utilizado para aprendizado e desenvolvimento MLHS.
+-------------
 
+- :man_technologist: MARIO SERGIO DA CRUZ JUNIOR
+- :man_student: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+- :computer: TRABALHO NA MILHAUS DESENVOLVIMENTO & CONSULTORIA
+- :headphones: ATUO EM SUPORTE E EM DESENVOLVIMENTO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+#### MEUS CONHECIMENTOS
+|TECNOLOGIA | NIVEL |
+|-----------|-------|
+|C#         |BÁSICO |
+|C++        |BÁSICO |
+|JAVA       |INICIANTE |
+|HTML       |INICIANTE |
+|CSS        |INICIANTE |
+|JS         |INICIANTE |
+|SQL SERVER |INTERMEDIÁRIO|
