@@ -1,21 +1,6 @@
-# BEM VINDO AO MEU GIT!
+                  ## Olá Padauã, Eu sou Mario e seja bem vindo ao meu perfil!
+                                       [https://img.freepik.com/fotos-gratis/renderizacao-3d-de-homem-jogando-online_23-2150898695.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1726790400&semt=ais_hybrid]
 
-## MARIO SERGIO DA CRUZ JUNIOR
-
-> AQUI VOCÊ VERÁ:
-1. TESTES DESENVOLVIDOS PELO CURSO DE FORMAÇÃO DO GIT NO DIO;
-2. TALVEZ PROJETOS DESENVOLVIDOS POR MIM
-   1. *MARKDOWN*
-   2. **PULLREQUEST**
-   3. ***ISSUES***
-  
-> ALÉM DE OUTRAS COISAS INTERESSANTES!
-
-[ESSA IMAGEM PODE ME DEFINIR DEPENDENDO DO DIA](https://www.designi.com.br/images/preview/10651111.jpg)
--------------------------------------------------------------------------------------------------------
-| NOME USUARIO | IDADE | GENERO |
-|--------------|-------|--------|
-| MARIO JR     | 28    | MASC   |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
